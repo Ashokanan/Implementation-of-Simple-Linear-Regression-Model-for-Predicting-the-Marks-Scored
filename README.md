@@ -1,4 +1,4 @@
-![Screenshot (5)](https://github.com/Ashokanan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160997973/2821d3b2-b11f-461a-b407-7f40c5702f2d)![Screenshot (2)](https://github.com/Ashokanan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160997973/4cb50884-b851-4cba-be50-9fcb096543f4)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
